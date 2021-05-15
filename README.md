@@ -1,3 +1,3 @@
 #Sample 
 
-** This is just to learn our Github works **
+**This is just to learn our Github works**
